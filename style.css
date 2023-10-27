@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+main {
+  display: flex;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  font-size: smaller;
+  margin-top: 2px;
+}
+.container {
+  display: flex;
+  width: 15cm;
+  height: 18.5cm;
+  background-color: #c4c4d3;
+  color: black;
+}
+.left {
+  margin: 10px;
+  width: 35%;
+  background-color: black;
+  color: white;
+}
+.contact {
+  height: 25%;
+  background-color: #0a4779;
+}
+.contact1 {
+  font-size: smaller;
+}
+.img {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  left: 45px;
+  top: 5px;
+}
+.name {
+  text-align: center;
+}
+.bottom {
+  padding: 20px;
+}
+.progress {
+  height: 3px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.certificate {
+  margin-top: 50px;
+}
+
+.right {
+  margin: 4px;
+  padding: 15px;
+}
+
+.m-10 {
+  margin: 5px;
+}
+
+.p-5 {
+  padding: 2px;
+}
+.skills {
+  margin-top: 15px;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+}
+a {
+  color: antiquewhite;
+  text-decoration: none;
+}
+.right hr {
+  height: 2px;
+  background-color: black;
+  border: none;
+}
+.col1 {
+  width: 95%;
+  background-color: rgb(47, 143, 222);
+  height: 100%;
+}
+.col2 {
+  width: 85%;
+  background-color: rgb(47, 143, 222);
+  height: 100%;
+}
+.col3 {
+  width: 87%;
+  background-color: rgb(47, 143, 222);
+  height: 100%;
+}
+.col4 {
+  width: 80%;
+  background-color: rgb(47, 143, 222);
+  height: 100%;
+}
+.col5 {
+  width: 80%;
+  background-color: rgb(47, 143, 222);
+  height: 100%;
+}
+.pro a {
+  font-weight: bold;
+  color: #0a4779;
+}
